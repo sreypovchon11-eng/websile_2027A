@@ -1,4 +1,4 @@
 user-agent:*
 Allow : /
 
-sitemap : https://sreypov-chorn-27-a.vercel.app/sitemap.xml
+sitemap : https://github.com/sreypovchon11-eng/SREYPOV-CHORN27A/sitemap.xml
