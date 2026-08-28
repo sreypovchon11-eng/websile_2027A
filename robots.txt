@@ -1,4 +1,4 @@
 user-agent:*
 Allow : /
 
-sitemap : https://github.com/sreypovchon11-eng/SREYPOV-CHORN27A/sitemap.xml
+sitemap : https://github.com/sreypovchon11-eng/websile_2027A/sitemap.xml
